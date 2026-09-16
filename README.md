@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tejahk/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tejahk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tejahk/Leetcode/tree/master/0015-3sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Tejahk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tejahk/Leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tejahk/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
