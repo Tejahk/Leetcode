@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejahk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tejahk/Leetcode/tree/master/0015-3sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Tejahk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
@@ -13,9 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejahk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tejahk/Leetcode/tree/master/0015-3sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tejahk/Leetcode/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Tejahk/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
